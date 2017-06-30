@@ -6,3 +6,7 @@ or even swap _(alt+s)_ your symbol with your opponent/friend, if you get bored o
 Just run the **TicTacToe.jar** file in the *executable* folder, and your are good to go.
 
 Have FUN!!! :)
+
+A sample run of the game is as follows:
+
+![alt text](https://raw.githubusercontent.com/AshHash/Tic_Tac_Toe-Standalone-Game/master/img/tic_tac_toe.png)
